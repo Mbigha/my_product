@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <tx_myproduct_domain_model_product>
+        <uid>1</uid>
+        <pid>33</pid>
+        <name>Item 1</name>
+    </tx_myproduct_domain_model_product>
+    <tx_myproduct_domain_model_product>
+        <uid>2</uid>
+        <pid>33</pid>
+        <name>Item 2</name>
+    </tx_myproduct_domain_model_product>
+    <tx_myproduct_domain_model_product>
+        <uid>3</uid>
+        <pid>33</pid>
+        <name>Item 3</name>
+    </tx_myproduct_domain_model_product>
+</dataset>

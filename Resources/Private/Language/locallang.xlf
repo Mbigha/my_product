@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:my_product/Resources/Private/Language/locallang" date="2020-08-02T14:05:37Z" product-name="my_product">
+		<header/>
+		<body>
+			<trans-unit id="tx_myproduct_domain_model_product" resname="tx_myproduct_domain_model_product">
+				<source>Product</source>
+			</trans-unit>
+			<trans-unit id="tx_myproduct_domain_model_product.name" resname="tx_myproduct_domain_model_product.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_myproduct_domain_model_product.description" resname="tx_myproduct_domain_model_product.description">
+				<source>Description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
